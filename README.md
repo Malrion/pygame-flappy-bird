@@ -1,6 +1,6 @@
 # Pygame-Flappy-Bird
 
-## Flappy Bird in Pygame
+#### Flappy Bird in Pygame
 
  To run the game on your device, install the pygame module with the command
  
